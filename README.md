@@ -13,6 +13,8 @@ A stunning and responsive flower bouquet website frontend featuring a **transpar
 
 ## 📸 Preview
 
+![image](https://github.com/user-attachments/assets/f739ae35-3e91-415b-b1ff-2daeea425edc)
+![image](https://github.com/user-attachments/assets/061a79f8-f511-417a-85fa-4aa14f0d7b14)
 
 
 ## 🛠️ Technologies Used
